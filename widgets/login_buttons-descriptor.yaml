@@ -29,6 +29,6 @@ customUi: |-
   </script>
   <script nonce="<@wp.cspNonce />">window.addEventListener("user.form.login", (evt) => {  if(evt.detail.payload){    login();  }});</script>
 
-  <div class="btn-group login-drop">    <button id="login-button" type="button" class="btn login dropdown-toggle mr-3" >        <@wp.i18n key="ESLF_SIGNIN" />    </button>    <a class="btn sign-up " style="line-height: 37px;" href="<@wp.url page="sign_up" />" >       <@wp.i18n key="SIGN_UP" />    </a></div>
+  <div class="btn-group login-drop">    <button id="login-button" type="button" class="btn login dropdown-toggle mr-3" >        <@wp.i18n key="ESLF_SIGNIN" />    </button>    <a class="btn sign-up " style="line-height: 37px;" href="<@wp.url page="sign_up" />" >       <@wp.i18n key="SD_SIGN_UP" />    </a></div>
 
   </#if>

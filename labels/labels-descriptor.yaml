@@ -26,6 +26,10 @@
   titles:
     en: My dashboard
     it: La mia Dashboard
+- key: SD_SIGN_UP
+  titles:
+    en: Sign Up
+    it: Registrati
 - key: SD_STANDARD_DEMO
   titles:
     en: Standard Demo
