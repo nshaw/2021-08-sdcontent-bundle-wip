@@ -162,8 +162,6 @@ components:
     - contents/sdb147-descriptor.yaml
     - contents/sdb149-descriptor.yaml
     - contents/sdb164-descriptor.yaml
-  plugins:
-    - plugins/standard-demo-banking-descriptor.yaml
   categories:
     - categories/categories-descriptor.yaml
   labels:
